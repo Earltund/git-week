@@ -8,4 +8,8 @@ option = int(input('Select from one of the following options above (1, 2, or 3):
 
 
 if option == 1:
-    print("1 commit works")
+    print("1 commit works, so it is  new branch")
+    print(2*2)
+
+elif option == 2:
+    print("second commit works")
