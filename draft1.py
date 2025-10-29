@@ -5,3 +5,7 @@ print('''Welcome to Library Map text Appplication \n
       3. Enter the location of the subject that you are trying to find. 
       ''')
 option = int(input('Select from one of the following options above (1, 2, or 3): '))
+
+
+if option == 1:
+    print("1 commit works")
